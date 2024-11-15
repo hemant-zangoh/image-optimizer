@@ -1,6 +1,6 @@
 {
   "name": "picshrinks",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "For image optimization",
   "main": "index.js",
   "scripts": {
